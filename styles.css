@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+.container{
+    background-color: rgb(245, 245, 245);
+    border-radius: 100px;
+    padding: 1px 0 1px 0;
+}
+
+h2{
+    text-align: center; 
+    color: olivedrab;
+}
+h3{
+    text-align: center;
+    background-color: darkgreen;
+    margin-left: 41%;
+    margin-right: 41%;
+    color: white;
+    border-radius: 20px;
+}
+
+h4{
+    text-align: center; 
+    color: green;  
+}
+P{
+    
+    text-align: center; 
+    color: green;
+    font-size: 20PX;
+}
+small{
+    
+    color: green;
+    font-size: 15px;  
+}
+.fa-youtube{
+    color:red;
+    margin: 0 5px;
+}
+.fa-twitter{
+    color:#00acee;
+    margin: 0 5px;
+}
+.fa-square-instagram{
+    color: #cd486b;
+    margin: 0 5px;
+    
+}
+
+.icon{
+    text-align: center;
+}
+.fa-kaaba ,.fa-mosque{
+    margin:0 2px 0 2px;
+}
+footer{
+   
+    display:flex;
+    justify-content: space-around;
+
+}
+
